@@ -29,6 +29,7 @@ You may study `testCaclulate1` as a sample. This test case should make a connect
 
 What benefit do we have from having integration tests in our project?
 ```
+it's make easy to check code if it has an error such as this code.
 @Test
     public void testCaclulate3() {
 
